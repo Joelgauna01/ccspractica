@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(78, 74, 74);
+    color: aliceblue;
+    text-align: center;
+}
+#imgPerfil{
+    border-radius: 450px;
+    border: solid 10px;
+    border-color: rgb(163, 163, 150);
+}
+
+h2{
+    font-size: 300%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
